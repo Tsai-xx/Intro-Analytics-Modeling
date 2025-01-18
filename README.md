@@ -1,10 +1,13 @@
 Project Title:
-Marketing Mix Modeling for DT Mart
+Enhancing Tennis Fan Engagement through Analytics: A Case Study on Wimbledon
 
 Description:
-This project uses Marketing Mix Modeling (MMM) to analyze and optimize DT Mart’s marketing budget. By evaluating various marketing channels' effectiveness, the project aims to identify the most and least impactful investments and propose budget reallocations to maximize revenue growth.
+This project leverages analytics to improve decision-making in fan engagement, player performance analysis, and advertising for Wimbledon. Inspired by the partnership between Wimbledon and IBM, the project utilizes data-driven models to address challenges in optimizing fan engagement and promoting rising tennis players.
 
 Methods:
-Data analysis and modeling using Python and R.
-Ridge regression for variable selection and optimization.
-Techniques: Lag, Adstock transformations, and multicollinearity resolution.
+ANOVA Models: To analyze player performance.
+Markov Chains: For player rankings and match predictions.
+Logistic Regression: To identify potential rising stars.
+Clustering: To segment fans by engagement behaviors.
+Optimization: To maximize fan engagement.
+Bayesian Modeling: To validate hypotheses.
